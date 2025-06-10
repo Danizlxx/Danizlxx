@@ -9,7 +9,7 @@
 
 🤔 Estou procurando ajuda com otimização de código, padrões de projeto e lógica avançada.
 
-💬 Pergunte-me sobre games, programação, basquete e música (tipo Alex G 😎).
+💬 Pergunte-me sobre games, programação, basquete e música.
 
 📫 Como entrar em contato comigo: [Email:intdani5@gmail.com Discord:Dani_tower]
 
