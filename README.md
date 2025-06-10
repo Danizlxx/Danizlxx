@@ -18,15 +18,5 @@
 ⚡ Curiosidade: Tenho 1,88m, sou canhoto e fanatico por animes💪🔥
 
 
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
-          
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-            
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
-        <a href="https://www.linkedin.com/in/DanielSilvaRodrigues" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-
+         
 ![typing-anime](https://github.com/user-attachments/assets/97295c82-0d23-4510-830d-f6ad71bc7def)
